@@ -1,4 +1,4 @@
-# PyMaths
+# PyMaths (Projet en cours)
 Modélisation de concepts mathématiques et raisonnements sur ces derniers.
 
 # Introduction
